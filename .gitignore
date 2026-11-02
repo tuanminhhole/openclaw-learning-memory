@@ -8,3 +8,8 @@ data/
 
 # Local dev tooling (not shipped, not committed)
 docs_dev/
+
+# Bí mật (chuẩn MonkeyTech, BI-MAT.md)
+secrets/
+*.pem
+*.key
